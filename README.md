@@ -1,5 +1,7 @@
 # Data Visualization - Lab
 
+✅ Completed Nov 10, 2026
+
 ## Introduction
 This lab will give you some structured practice performing data visualization!
 
